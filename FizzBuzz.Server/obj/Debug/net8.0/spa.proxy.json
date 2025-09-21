@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50720",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Kirentheren Ravindra\\source\\repos\\FizzBuzz\\FizzBuzz.Server\\..\\fizzbuzz.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
